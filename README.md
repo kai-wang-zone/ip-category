@@ -14,7 +14,7 @@ Run the following command from your project root:
 
 ## Usage
 
-1、Initial library loading
+1、Initial library loading（Can be ignored in the framework）
 ```
 <?php
 require __DIR__ . "/vendor/autoload.php";

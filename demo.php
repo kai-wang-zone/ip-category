@@ -1,6 +1,6 @@
 <?php
 require __DIR__ . '/src/IpRangeCalculator.php';
-use \KaiWang\ipCategory\IpRangeCalculator;
+use \KaiWangZone\ipCategory\IpRangeCalculator;
 
 // 创建计算器实例
 $ipCalculator = new IpRangeCalculator();
